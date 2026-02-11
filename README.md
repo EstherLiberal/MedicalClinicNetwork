@@ -1,0 +1,1 @@
+This project depicts a medical clinic network as the different aspects of how the servers, clients, and users within the network communicate and function. The full virtual machine project using VMWare Workstation has files too large to upload, therefore, I shared the model of the network as a diagram created using Microsoft Visio.
